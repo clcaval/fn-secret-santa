@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/fn-secret-santa/fn/WebContent/lib/asm-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/fn-secret-santa/fn/WebContent/lib/axis.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/fn-secret-santa/fn/WebContent/lib/commons-discovery-0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/fn-secret-santa/fn/WebContent/lib/commons-logging.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/fn-secret-santa/fn/WebContent/lib/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/fn-secret-santa/fn/WebContent/lib/jackson-jaxrs-1.9.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/fn-secret-santa/fn/WebContent/lib/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/fn-secret-santa/fn/WebContent/lib/jackson-xc-1.9.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/fn-secret-santa/fn/WebContent/lib/jaxrpc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/fn-secret-santa/fn/WebContent/lib/jersey-client-1.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/fn-secret-santa/fn/WebContent/lib/jersey-core-1.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/fn-secret-santa/fn/WebContent/lib/jersey-json-1.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/fn-secret-santa/fn/WebContent/lib/jersey-server-1.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/fn-secret-santa/fn/WebContent/lib/jersey-servlet-1.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/fn-secret-santa/fn/WebContent/lib/jettison-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/fn-secret-santa/fn/WebContent/lib/jsr311-api-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/fn-secret-santa/fn/WebContent/lib/ojdbc6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/fn-secret-santa/fn/WebContent/lib/poi-3.10.1-20140818.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/fn-secret-santa/fn/WebContent/lib/poi-excelant-3.10.1-20140818.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/fn-secret-santa/fn/WebContent/lib/poi-ooxml-3.10.1-20140818.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/fn-secret-santa/fn/WebContent/lib/poi-ooxml-schemas-3.10.1-20140818.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/fn-secret-santa/fn/WebContent/lib/poi-scratchpad-3.10.1-20140818.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/fn-secret-santa/fn/WebContent/lib/saaj.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/fn-secret-santa/fn/WebContent/lib/wsdl4j.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cr0ss/Documents/GitHub/common/h2/bin/h2-1.4.187.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
